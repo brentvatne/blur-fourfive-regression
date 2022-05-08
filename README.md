@@ -1,0 +1,2 @@
+- Repro with: `expo run:ios` - notice that blur props aren't working
+- Alternatively, start in Expo Go by running `expo start` and then pressing `i` - notice that blur works as expected
